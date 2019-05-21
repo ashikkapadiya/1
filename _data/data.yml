@@ -58,7 +58,7 @@ education:
 experiences:
     - role: Research Intern
       time: Summer 2018 
-      company: IRLAB, Dhirubhai Ambani Institute of Information and Communication Technology
+      company: IRLAB, DA-IICT
       details: |
           - Evaluating performance of Deep Learning models on Classification task datasets
 
@@ -71,13 +71,13 @@ experiences:
 
     - role: Teaching Assistant
       time: 2018 - 2019
-      company: Dhirubhai Ambani Institute of Information and Communication Technology
+      company: DA-IICT
       details: |
           - Courses: Enterprise Computing, System Software
 
     - role: Undergraduate Teaching Assistant
       time: 2016 - 2017
-      company: School of Engineering & Applied Science, Ahmedabad University
+      company: SEAS, Ahmedabad University
       details: |
           - Courses: Data Structures and Algorithms, Discrete Mathematics
 
