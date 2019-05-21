@@ -59,26 +59,26 @@ experiences:
     - role: Research Intern
       time: Summer 2018 
       company: IRLAB, DA-IICT
-      details: |
+      details: 
       - Evaluating performance of Deep Learning models on Classification task datasets
 
     - role: Data Mining Intern
       time: Summer 2016
       company: Kamkaaj Solutions
-      details: |
+      details: 
       - Crawled the data related to job portals from different websites 
       - Pre-processed the data and stored in json format
 
     - role: Teaching Assistant
       time: 2018 - 2019
       company: DA-IICT
-      details: |
+      details: 
       - Courses: Enterprise Computing, System Software
 
     - role: Undergraduate Teaching Assistant
       time: 2016 - 2017
       company: SEAS, Ahmedabad University
-      details: |
+      details: 
       - Courses: Data Structures and Algorithms, Discrete Mathematics
 
 projects:
