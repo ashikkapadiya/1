@@ -60,7 +60,7 @@ experiences:
       time: Summer 2018 
       company: IRLAB, DA-IICT
       details: |
-         - Evaluating performance of Deep Learning models on Classification task datasets
+         - Evaluating performance of Deep Learning Language Models on Multi-lingual text classification task datasets
 
     - role: Data Mining Intern
       time: Summer 2016
@@ -83,15 +83,11 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: In-house video sharing
+        link: "https://drive.google.com/open?id=0B03F1XpVcsmPYWJRMUg4aGMydzA"
+        tagline: "To reduce usage of internet bandwidth caused by excessive downloading or streaming of same video files inside a college campus."
 
       - title: DevStudio
         link: "#"
